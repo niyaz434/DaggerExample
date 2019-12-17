@@ -1,0 +1,10 @@
+package com.dagger.example.models;
+
+import javax.inject.Inject;
+
+public class Wheels {
+
+    @Inject
+    public Wheels() {
+    }
+}
